@@ -1,0 +1,23 @@
+{
+  "name": "ts_gb",
+  "version": "1.0.0",
+  "description": "TypeScript GeekBrains Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiPetrovich/TS_GB.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "GeekBrains"
+  ],
+  "author": "Andrei Petrovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiPetrovich/TS_GB/issues"
+  },
+  "homepage": "https://github.com/AndreiPetrovich/TS_GB#readme"
+}
